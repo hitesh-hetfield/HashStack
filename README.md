@@ -14,7 +14,7 @@ $ npm install -g hardhat
 
 ## Installation
 
-1. **Clone the Repository**: 
+1. **Clone the Repository**
 2. **Install Dependencies**
 ```
 $ npm install
