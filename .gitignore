@@ -15,3 +15,6 @@ node_modules
 
 # Hardhat Ignition default folder for deployments against a local node
 ignition/deployments/chain-31337
+
+setter-getter-dapp/node_modules
+setter-getter-dapp/src/A.abi.json
